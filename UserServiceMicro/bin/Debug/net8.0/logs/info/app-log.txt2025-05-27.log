@@ -1,0 +1,5 @@
+2025-05-27 13:44:39,041 [1] INFO  Microsoft.Hosting.Lifetime [?.?:?] - Now listening on: https://localhost:7203
+2025-05-27 13:44:39,141 [1] INFO  Microsoft.Hosting.Lifetime [?.?:?] - Now listening on: http://localhost:5047
+2025-05-27 13:44:39,205 [1] INFO  Microsoft.Hosting.Lifetime [Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted:0] - Application started. Press Ctrl+C to shut down.
+2025-05-27 13:44:39,207 [1] INFO  Microsoft.Hosting.Lifetime [Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted:0] - Hosting environment: Development
+2025-05-27 13:44:39,208 [1] INFO  Microsoft.Hosting.Lifetime [System.Threading.CancellationTokenSource.Invoke:0] - Content root path: C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro
