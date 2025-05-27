@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7FF44083-BCD4-46C1-94E1-7D7ADEDD6B1E}|UserServiceMicro\\UserService.Api.csproj|c:\\users\\fguerrero\\source\\repos\\userservicemicro\\userservicemicro\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7FF44083-BCD4-46C1-94E1-7D7ADEDD6B1E}|UserServiceMicro\\UserService.Api.csproj|solutionrelative:userservicemicro\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7FF44083-BCD4-46C1-94E1-7D7ADEDD6B1E}|UserServiceMicro\\UserService.Api.csproj|c:\\users\\fguerrero\\source\\repos\\userservicemicro\\userservicemicro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF44083-BCD4-46C1-94E1-7D7ADEDD6B1E}|UserServiceMicro\\UserService.Api.csproj|solutionrelative:userservicemicro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88BBEAF5-A801-4479-8EE4-CD774F1CB8AF}|UserService.Application\\UserService.Application.csproj|c:\\users\\fguerrero\\source\\repos\\userservicemicro\\userservice.application\\usecases\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88BBEAF5-A801-4479-8EE4-CD774F1CB8AF}|UserService.Application\\UserService.Application.csproj|solutionrelative:userservice.application\\usecases\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8C7221C-3DC7-4456-AB5F-6B6D2A7F7110}|UserService.Infrastructure\\UserService.Infrastructure.csproj|c:\\users\\fguerrero\\source\\repos\\userservicemicro\\userservice.infrastructure\\externalservices\\notificationhttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C7221C-3DC7-4456-AB5F-6B6D2A7F7110}|UserService.Infrastructure\\UserService.Infrastructure.csproj|solutionrelative:userservice.infrastructure\\externalservices\\notificationhttpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88BBEAF5-A801-4479-8EE4-CD774F1CB8AF}|UserService.Application\\UserService.Application.csproj|c:\\users\\fguerrero\\source\\repos\\userservicemicro\\userservice.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BBEAF5-A801-4479-8EE4-CD774F1CB8AF}|UserService.Application\\UserService.Application.csproj|solutionrelative:userservice.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88BBEAF5-A801-4479-8EE4-CD774F1CB8AF}|UserService.Application\\UserService.Application.csproj|c:\\users\\fguerrero\\source\\repos\\userservicemicro\\userservice.application\\usecases\\createuser\\icreateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88BBEAF5-A801-4479-8EE4-CD774F1CB8AF}|UserService.Application\\UserService.Application.csproj|solutionrelative:userservice.application\\usecases\\createuser\\icreateuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88BBEAF5-A801-4479-8EE4-CD774F1CB8AF}|UserService.Application\\UserService.Application.csproj|c:\\users\\fguerrero\\source\\repos\\userservicemicro\\userservice.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88BBEAF5-A801-4479-8EE4-CD774F1CB8AF}|UserService.Application\\UserService.Application.csproj|solutionrelative:userservice.application\\interfaces\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88BBEAF5-A801-4479-8EE4-CD774F1CB8AF}|UserService.Application\\UserService.Application.csproj|c:\\users\\fguerrero\\source\\repos\\userservicemicro\\userservice.application\\usecases\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88BBEAF5-A801-4479-8EE4-CD774F1CB8AF}|UserService.Application\\UserService.Application.csproj|solutionrelative:userservice.application\\usecases\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF44083-BCD4-46C1-94E1-7D7ADEDD6B1E}|UserServiceMicro\\UserService.Api.csproj|c:\\users\\fguerrero\\source\\repos\\userservicemicro\\userservicemicro\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF44083-BCD4-46C1-94E1-7D7ADEDD6B1E}|UserServiceMicro\\UserService.Api.csproj|solutionrelative:userservicemicro\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8C7221C-3DC7-4456-AB5F-6B6D2A7F7110}|UserService.Infrastructure\\UserService.Infrastructure.csproj|c:\\users\\fguerrero\\source\\repos\\userservicemicro\\userservice.infrastructure\\logging\\iloggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -95,58 +103,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserServiceMicro\\Program.cs",
+              "RelativeDocumentMoniker": "UserServiceMicro\\Program.cs",
+              "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserServiceMicro\\Program.cs",
+              "RelativeToolTip": "UserServiceMicro\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:37:23.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationHttpClient.cs",
+              "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Infrastructure\\ExternalServices\\NotificationHttpClient.cs",
+              "RelativeDocumentMoniker": "UserService.Infrastructure\\ExternalServices\\NotificationHttpClient.cs",
+              "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Infrastructure\\ExternalServices\\NotificationHttpClient.cs",
+              "RelativeToolTip": "UserService.Infrastructure\\ExternalServices\\NotificationHttpClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T22:36:15.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserServiceMicro\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "UserServiceMicro\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserServiceMicro\\Controllers\\UserController.cs",
               "RelativeToolTip": "UserServiceMicro\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T17:47:01.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "INotificationService.cs",
               "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Application\\Interfaces\\INotificationService.cs",
               "RelativeDocumentMoniker": "UserService.Application\\Interfaces\\INotificationService.cs",
               "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Application\\Interfaces\\INotificationService.cs",
               "RelativeToolTip": "UserService.Application\\Interfaces\\INotificationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T21:56:46.124Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ICreateUserHandler.cs",
               "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Application\\UseCases\\CreateUser\\ICreateUserHandler.cs",
               "RelativeDocumentMoniker": "UserService.Application\\UseCases\\CreateUser\\ICreateUserHandler.cs",
               "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Application\\UseCases\\CreateUser\\ICreateUserHandler.cs",
               "RelativeToolTip": "UserService.Application\\UseCases\\CreateUser\\ICreateUserHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T21:55:05.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "CreateUserHandler.cs",
               "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Application\\UseCases\\CreateUser\\CreateUserHandler.cs",
               "RelativeDocumentMoniker": "UserService.Application\\UseCases\\CreateUser\\CreateUserHandler.cs",
               "ToolTip": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Application\\UseCases\\CreateUser\\CreateUserHandler.cs",
               "RelativeToolTip": "UserService.Application\\UseCases\\CreateUser\\CreateUserHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-27T21:54:17.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "ILoggerAdapter.cs",
               "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Infrastructure\\Logging\\ILoggerAdapter.cs",
               "RelativeDocumentMoniker": "UserService.Infrastructure\\Logging\\ILoggerAdapter.cs",
@@ -154,12 +188,11 @@
               "RelativeToolTip": "UserService.Infrastructure\\Logging\\ILoggerAdapter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T21:53:57.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T21:53:57.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Log4NetAdapter.cs",
               "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Infrastructure\\Logging\\Log4NetAdapter.cs",
               "RelativeDocumentMoniker": "UserService.Infrastructure\\Logging\\Log4NetAdapter.cs",
@@ -167,12 +200,11 @@
               "RelativeToolTip": "UserService.Infrastructure\\Logging\\Log4NetAdapter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T21:51:35.53Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T21:51:35.53Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Domain\\Entitites\\User.cs",
               "RelativeDocumentMoniker": "UserService.Domain\\Entitites\\User.cs",
@@ -180,12 +212,11 @@
               "RelativeToolTip": "UserService.Domain\\Entitites\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T21:37:39.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T21:37:39.05Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Application\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "UserService.Application\\DTOs\\UserDto.cs",
@@ -193,12 +224,11 @@
               "RelativeToolTip": "UserService.Application\\DTOs\\UserDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T21:36:46.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T21:36:46.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "UserService.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
@@ -206,12 +236,11 @@
               "RelativeToolTip": "UserService.Infrastructure\\Extensions\\ServiceCollectionExtensions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAkwBIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T19:38:55.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-27T19:38:55.447Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "ExampleService.cs",
               "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Domain\\Events\\ExampleService.cs",
               "RelativeDocumentMoniker": "UserService.Domain\\Events\\ExampleService.cs",
@@ -223,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ExampleValidator.cs",
               "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Application\\Validators\\ExampleValidator.cs",
               "RelativeDocumentMoniker": "UserService.Application\\Validators\\ExampleValidator.cs",
@@ -235,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Domain\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "UserService.Domain\\Interfaces\\IUserRepository.cs",
@@ -247,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ExampleException.cs",
               "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Domain\\Exceptions\\ExampleException.cs",
               "RelativeDocumentMoniker": "UserService.Domain\\Exceptions\\ExampleException.cs",
@@ -259,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "ExampleMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserServiceMicro\\Middleware\\ExampleMiddleware.cs",
               "RelativeDocumentMoniker": "UserServiceMicro\\Middleware\\ExampleMiddleware.cs",
@@ -271,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ExampleValueObject.cs",
               "DocumentMoniker": "C:\\Users\\fguerrero\\source\\repos\\UserServiceMicro\\UserService.Domain\\ValueObjects\\ExampleValueObject.cs",
               "RelativeDocumentMoniker": "UserService.Domain\\ValueObjects\\ExampleValueObject.cs",

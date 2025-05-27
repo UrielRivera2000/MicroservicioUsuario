@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace UserService.Infrastructure.ExternalServices
 {
-    public class NotificationHttpClient : ICreateUserHandler
+    public class NotificationHttpClient : INotificationService
     {
         private readonly HttpClient _client;
         private static readonly log4net.ILog _logger = log4net.LogManager.GetLogger(typeof(NotificationHttpClient));

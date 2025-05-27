@@ -1,3 +1,11 @@
+C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.csproj.AssemblyReference.cache
+C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.AssemblyInfoInputs.cache
+C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.AssemblyInfo.cs
+C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.csproj.CoreCompileInputs.cache
+C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.sourcelink.json
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\bin\Debug\net8.0\log4net.config
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\bin\Debug\net8.0\appsettings.json
@@ -23,13 +31,6 @@ C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\bin\Debug\net8
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\bin\Debug\net8.0\UserService.Application.pdb
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\bin\Debug\net8.0\UserService.Infrastructure.pdb
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\bin\Debug\net8.0\UserService.Domain.pdb
-C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.csproj.AssemblyReference.cache
-C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.AssemblyInfoInputs.cache
-C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.AssemblyInfo.cs
-C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.csproj.CoreCompileInputs.cache
-C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\scopedcss\bundle\UserService.Api.styles.css
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\staticwebassets.development.json
@@ -40,10 +41,10 @@ C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.UserService.Api.props
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.UserService.Api.props
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserServ.B5470E7C.Up2Date
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.dll
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\refint\UserService.Api.dll
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.pdb
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.genruntimeconfig.cache
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\ref\UserService.Api.dll
-C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.sourcelink.json

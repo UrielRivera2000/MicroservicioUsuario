@@ -10,9 +10,9 @@ C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Infrastructure\obj\
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.AssemblyInfo.cs
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.sourcelink.json
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Infrastructure\obj\Debug\net8.0\UserServ.28B62BA0.Up2Date
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.dll
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Infrastructure\obj\Debug\net8.0\refint\UserService.Infrastructure.dll
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.pdb
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Infrastructure\obj\Debug\net8.0\ref\UserService.Infrastructure.dll
-C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.sourcelink.json

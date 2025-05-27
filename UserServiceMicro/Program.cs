@@ -24,7 +24,7 @@ builder.Services.AddLoggingAdapter();
 builder.Services.AddScoped<CreateUserHandler>();
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 
-builder.Services.AddHttpClient<ICreateUserHandler, NotificationHttpClient>(client =>
+builder.Services.AddHttpClient<INotificationService, NotificationHttpClient>(client =>
 {
     client.BaseAddress = new Uri("https://localhost:7225");
 });
