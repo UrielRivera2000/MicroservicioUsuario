@@ -15,3 +15,4 @@ C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Infrastructure\obj\
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Infrastructure\obj\Debug\net8.0\refint\UserService.Infrastructure.dll
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.pdb
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Infrastructure\obj\Debug\net8.0\ref\UserService.Infrastructure.dll
+C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.sourcelink.json

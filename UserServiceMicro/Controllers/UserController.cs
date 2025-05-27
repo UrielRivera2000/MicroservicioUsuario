@@ -10,9 +10,9 @@ namespace UserService.Api.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
-        private readonly CreateUserHandler _handler;
+        private readonly ICreateUserHandler _handler;
 
-        public UserController(CreateUserHandler handler)
+        public UserController(ICreateUserHandler handler)
         {
             _handler = handler;
         }

@@ -5,12 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using UserService.Application.Interfaces;
+using UserService.Application.UseCases;
 using UserService.Domain.Entitites;
 using UserService.Domain.Interfaces;
 
 namespace UserService.Application.UseCases.CreateUser
 {
-    public class CreateUserHandler
+    public class CreateUserHandler:ICreateUserHandler
     {
         private readonly IUserRepository _userRepository;
         private readonly INotificationService _notificationService;

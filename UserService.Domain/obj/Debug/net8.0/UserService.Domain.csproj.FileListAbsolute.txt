@@ -9,3 +9,4 @@ C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Domain\obj\Debug\ne
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Domain\obj\Debug\net8.0\refint\UserService.Domain.dll
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Domain\obj\Debug\net8.0\UserService.Domain.pdb
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Domain\obj\Debug\net8.0\ref\UserService.Domain.dll
+C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Domain\obj\Debug\net8.0\UserService.Domain.sourcelink.json

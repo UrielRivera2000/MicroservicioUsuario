@@ -46,4 +46,4 @@ C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.pdb
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.genruntimeconfig.cache
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\ref\UserService.Api.dll
-C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\fguerrero\source\repos\UserServiceMicro\UserServiceMicro\obj\Debug\net8.0\UserService.Api.sourcelink.json

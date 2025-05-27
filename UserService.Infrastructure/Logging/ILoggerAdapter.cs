@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UserService.Application.Interfaces
+namespace UserService.Infrastructure.Logging
 {
     public  interface ILoggerAdapter<T>
     {

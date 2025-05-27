@@ -13,3 +13,4 @@ C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Application\obj\Deb
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Application\obj\Debug\net8.0\refint\UserService.Application.dll
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Application\obj\Debug\net8.0\UserService.Application.pdb
 C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Application\obj\Debug\net8.0\ref\UserService.Application.dll
+C:\Users\fguerrero\source\repos\UserServiceMicro\UserService.Application\obj\Debug\net8.0\UserService.Application.sourcelink.json
